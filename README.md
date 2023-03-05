@@ -4,6 +4,9 @@
 
 # Getting Started
 
+First of all, you should create an account on Mongodb atlas and then, you should install Mongodb compass
+*[Mongodb atlas](https://account.mongodb.com/account/login?signedOut=true)
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
